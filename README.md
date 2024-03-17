@@ -1,4 +1,4 @@
-# The Tensor Trust dataset (v1)
+# The Tensor Trust dataset (benchmarks v1, raw data dump v2)
 
 **Other Tensor Trust links:** [[Game]](https://tensortrust.ai/) [[Code]](https://github.com/HumanCompatibleAI/tensor-trust) [[Paper]](https://tensortrust.ai/paper)
 
